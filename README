@@ -3,8 +3,8 @@ Language: Java
 Development Environment: Eclipse
 Important features: Android application 
 
-If you are looking for code samples in this repo, the code can be found in
-  KanaPractice / src / com / chasingkytes / kana / practice 
+If you are looking for code samples in this repo, the code can be found at
+  https://github.com/amylim/KanaPractice/tree/master/src/com/chasingkytes/kana/practice
 
 This Android application is a game that helps the user with recognizing 
 the two Japanese alphabets, Hiragana and Katakana. 
