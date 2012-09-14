@@ -1,0 +1,14 @@
+Date Completed: Sept 2012
+Language: Java
+Development Environment: Eclipse
+Important features: Android application 
+
+If you are looking for code samples in this repo, the code can be found in
+  KanaPractice / src / com / chasingkytes / kana / practice 
+
+This Android application is a game that helps the user with recognizing 
+the two Japanese alphabets, Hiragana and Katakana. 
+
+User must find the Kana that matches the target that is indicated below the game grid.
+When the user successfully finds the target, a new game grid will regenerate 
+with a different random target.
